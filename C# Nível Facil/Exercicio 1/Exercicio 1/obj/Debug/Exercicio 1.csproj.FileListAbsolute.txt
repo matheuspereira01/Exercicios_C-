@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+C:\Users\User\Desktop\C#\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb
